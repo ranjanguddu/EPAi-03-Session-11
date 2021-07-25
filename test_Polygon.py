@@ -17,12 +17,6 @@ README_CONTENT_CHECK_FOR = [
 	"__next__",
 	"__init__",
 	
-	"__repr__",
-	"__init__",
-	"__repr__",
-	"__getitem__",
-	"__iter__",
-	"StopIteration"
    
 ]
 
